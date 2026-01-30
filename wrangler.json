@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "mail-setan",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "cc58990c-7705-4b87-be07-7da0c216db2c",
+			"database_name": "mail-setan"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
